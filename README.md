@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=yohanessilitonga&style=for-the-badge&url=https://yohanesgroup.my.id)](https://yohanesgroup.my.id)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yohanesray21?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fyohanesray21r&screen_name=yohanesray21)
 
-## I'm a college student, Father, will be the Frontend developer!
+## I'm a college student, will be the Frontend developer!
 
 - 🔭 I’m currently working on a [Personal Website][website]!
 - 🌱 I’m currently html, css, js, bootstrap 🤣
