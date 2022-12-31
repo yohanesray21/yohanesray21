@@ -41,4 +41,4 @@ src="https://img.shields.io/twitter/follow/YohanesRay21?logo=twitter&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/yohanesray21/yohanessilitonga" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yohanesray21&repo=yohanessilitonga&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yohanesray21/mechapedia" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yohanesray21&repo=mechapedia&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/yohanesray21/yohanessilitonga" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yohanesray21&repo=yohanessilitonga&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></a></div><br /><br /><br /><br /><br /><br /><br />
