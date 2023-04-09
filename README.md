@@ -4,6 +4,8 @@
 
 Currently interested in learning frontend topics
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yohanesray21.yohanesray21)
+
 - 🌍  I'm based in Indonesia
 - 🖥️  See my portfolio at [https://yohanessilitonga.vercel.app/](http://yohanessilitonga.vercel.app/)
 - ✉️  You can contact me at [yohanesrfsilitonga21@gmail.com](mailto:yohanesrfsilitonga21@gmail.com)
