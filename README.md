@@ -1,10 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yohanes Silitonga
 
 ## Frontend Developer
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yohanesray21.yohanesray21)
 
 Currently interested in learning frontend topics
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yohanesray21.yohanesray21)
 
 - 🌍  I'm based in Indonesia
 - 🖥️  See my portfolio at [https://yohanessilitonga.vercel.app/](http://yohanessilitonga.vercel.app/)
